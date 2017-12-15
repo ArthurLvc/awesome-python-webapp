@@ -1,4 +1,4 @@
-awesome-python3-webapp/   <--根目录
+awesome-python-webapp/   <--根目录
 	|
 	|--backup/            <--备份目录    
 	|
